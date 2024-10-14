@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeWright86
 - 👀 I’m interested in Machine Learning applications to Data Analysis
-- 🌱 I’m currently learning Logistic Regression as part of a Data Science Bootcamp
+- 🌱 I have just completed a Data Science Bootcamp with HyperionDev during which I have learned to use Python, NumPy, Pandas, Seaborn, Matplotlib for Data processing and visualisation
 - 📫 How to reach me email jake.p.w@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been to see the band Iron Maiden play live 19 times
